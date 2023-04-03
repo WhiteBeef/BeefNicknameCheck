@@ -1,0 +1,6 @@
+name: BeefNicknameCheck
+version: '${project.version}'
+main: ru.whitebeef.beefnicknamecheck.BeefNicknameCheck
+api-version: 1.19
+depend: [ BeefLibrary ]
+authors: [ _WhiteBeef_ ]
